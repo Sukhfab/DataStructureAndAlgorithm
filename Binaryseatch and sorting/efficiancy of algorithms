@@ -1,0 +1,4 @@
+Binary search : O(log (n))
+bubble sort : o(n^2)
+merger sort: O(n log (n)) space: o(n)
+quick sort: O(n log (n)) space: 0 (1)
